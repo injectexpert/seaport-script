@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/lexenddeca/v17/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4rs1ArA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/lexenddeca/v17/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1ArA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/lexenddeca/v17/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4ws1ArA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/lexenddeca/v17/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4LspArA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/lexenddeca/v17/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4F8pArA.ttf) format('truetype');
+}
